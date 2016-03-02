@@ -1,16 +1,16 @@
 ---
 
-- src: https://github.com/superlumic/ansible-role-homebrew.git
-  name: mkheriwala.superlumic-homebrew
-
-- src: https://github.com/superlumic/ansible-role-osx-defaults.git
-  name: mkheriwala.superlumic-osx-defaults
+#- src: https://github.com/superlumic/ansible-role-homebrew.git
+#  name: mkheriwala.superlumic-homebrew
+#
+#- src: https://github.com/superlumic/ansible-role-osx-defaults.git
+#  name: mkheriwala.superlumic-osx-defaults
 
 #- src: https://github.com/superlumic/ansible-role-computername.git
 #  name: mkheriwala.superlumic-computername
 
-- src: https://github.com/superlumic/ansible-role-cli.git
-  name: mkheriwala.superlumic-cli
+#- src: https://github.com/superlumic/ansible-role-cli.git
+#  name: mkheriwala.superlumic-cli
 
 #- src: https://github.com/superlumic/ansible-role-mysql.git
 #  name: mkheriwala.superlumic-mysql

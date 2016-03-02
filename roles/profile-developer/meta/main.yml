@@ -12,8 +12,8 @@ galaxy_info:
     - system
 dependencies:
 #  - mkheriwala.superlumic-computername
-  - mkheriwala.superlumic-cli
-  - mkheriwala.superlumic-homebrew
+#  - mkheriwala.superlumic-cli
+#  - mkheriwala.superlumic-homebrew
 #  - mkheriwala.superlumic-mysql
 #  - mkheriwala.superlumic-php
   - mkheriwala.superlumic-sublimetext

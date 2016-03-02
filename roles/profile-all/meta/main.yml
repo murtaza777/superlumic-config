@@ -12,4 +12,4 @@ galaxy_info:
     - system
 dependencies:
 #  - mkheriwala.superlumic-computername
-  - mkheriwala.superlumic-cli
+#  - mkheriwala.superlumic-cli

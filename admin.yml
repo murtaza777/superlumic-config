@@ -1,13 +1,13 @@
-#---
-#
-#- hosts: 127.0.0.1
-#  connection: local
-#
-#  tasks:
-#    - name: install personal cask applications
-#      homebrew_cask: name={{item}} state=present
-#      with_items:
-#        - spotify
+---
+
+- hosts: 127.0.0.1
+  connection: local
+
+  tasks:
+    - name: install personal cask applications
+      homebrew_cask: name={{item}} state=present
+      with_items:
+        - spotify
 #        - sketch
 #        - imageoptim
 #        - imagealpha
@@ -39,9 +39,9 @@
 #      with_items:
 #        - { regexp: '^admin', line: 'admin ALL=(ALL) NOPASSWD: ALL' }
 #
-#  roles:
-#    - profile-all
-#    - profile-developer
+  roles:
+    - profile-all
+    - profile-developer
 #
 #  vars:
 #    - computername: frontend
